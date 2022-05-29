@@ -1,0 +1,5 @@
+a=(input("Enter the number:"))
+# a=int(input("Enter the number:"))
+# n=type(a)
+# print(n)
+print(type(a))
