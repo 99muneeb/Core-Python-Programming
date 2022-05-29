@@ -1,0 +1,5 @@
+value=input("Enter the value: ")
+list=value.split(',')
+tuple=tuple(list)
+print("list: ",list)
+print("Tuple: ",tuple)

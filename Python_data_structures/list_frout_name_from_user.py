@@ -1,0 +1,10 @@
+print("Enter seven frout names")
+f1=input()
+f2=input()
+f3=input()
+f4=input()
+f5=input()
+f6=input()
+f7=input()
+frout=[f1,f2,f3,f4,f5,f6,f7]
+print(frout)
