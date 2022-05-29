@@ -1,0 +1,6 @@
+# f=open('simple_file.txt','w')
+f=open('simple_file.txt')
+# f.write("Muneeb is a good boys :)")
+data=f.read()
+print(data)
+f.close()
